@@ -1,0 +1,30 @@
+# Environment variables (credentials)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test outputs
+task06_outputs/
+*.png
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
